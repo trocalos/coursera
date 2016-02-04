@@ -47,6 +47,7 @@
 		A78121A31C63E4A300352BEC /* almacen2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = almacen2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A78121A71C63E4A300352BEC /* almacen2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = almacen2UITests.swift; sourceTree = "<group>"; };
 		A78121A91C63E4A300352BEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A78121B51C63EB7400352BEC /* minireto1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = minireto1.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		A781217B1C63E4A200352BEC = {
 			isa = PBXGroup;
 			children = (
+				A78121B51C63EB7400352BEC /* minireto1.playground */,
 				A78121861C63E4A200352BEC /* almacen2 */,
 				A781219B1C63E4A300352BEC /* almacen2Tests */,
 				A78121A61C63E4A300352BEC /* almacen2UITests */,
@@ -484,6 +486,7 @@
 				A78121AE1C63E4A300352BEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A78121AF1C63E4A300352BEC /* Build configuration list for PBXNativeTarget "almacen2Tests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				A78121B11C63E4A300352BEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A78121B21C63E4A300352BEC /* Build configuration list for PBXNativeTarget "almacen2UITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				A78121B41C63E4A300352BEC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
