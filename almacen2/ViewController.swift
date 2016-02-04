@@ -1,26 +1,24 @@
-//
-//  ViewController.swift
-//  almacen2
-//
-//  Created by Diana Guill on 4/2/16.
-//  Copyright © 2016 Diana Guill. All rights reserved.
-//
+//: Playground - noun: a place where people can play
 
 import UIKit
 
-class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-        //modif 1
+var meses = 0...100
+for mes in meses {
+    
+    
+    switch mes {
+    case 30...40:
+        print("\(mes) Viva Swift")
+    default:
+    
+    if mes % 5 == 0 {
+    print("\(mes) #Bingo!!!")
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    if mes % 2 == 0 {
+        print("\(mes) #Par!!!")
+        
     }
-
-
+    else {print("\(mes) #ImPar!!!")}
+    }
 }
-

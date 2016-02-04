@@ -14,6 +14,7 @@
 		A78121921C63E4A300352BEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A78121901C63E4A300352BEC /* LaunchScreen.storyboard */; };
 		A781219D1C63E4A300352BEC /* almacen2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A781219C1C63E4A300352BEC /* almacen2Tests.swift */; };
 		A78121A81C63E4A300352BEC /* almacen2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78121A71C63E4A300352BEC /* almacen2UITests.swift */; };
+		A78121B71C63ECDB00352BEC /* almacen2 in Resources */ = {isa = PBXBuildFile; fileRef = A78121B61C63ECDB00352BEC /* almacen2 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		A78121A71C63E4A300352BEC /* almacen2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = almacen2UITests.swift; sourceTree = "<group>"; };
 		A78121A91C63E4A300352BEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A78121B51C63EB7400352BEC /* minireto1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = minireto1.playground; sourceTree = "<group>"; };
+		A78121B61C63ECDB00352BEC /* almacen2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = almacen2; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				A781219B1C63E4A300352BEC /* almacen2Tests */,
 				A78121A61C63E4A300352BEC /* almacen2UITests */,
 				A78121851C63E4A200352BEC /* Products */,
+				A78121B61C63ECDB00352BEC /* almacen2 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -236,6 +239,7 @@
 				A78121921C63E4A300352BEC /* LaunchScreen.storyboard in Resources */,
 				A781218F1C63E4A300352BEC /* Assets.xcassets in Resources */,
 				A781218D1C63E4A200352BEC /* Main.storyboard in Resources */,
+				A78121B71C63ECDB00352BEC /* almacen2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
