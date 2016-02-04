@@ -193,7 +193,6 @@
 				TargetAttributes = {
 					A78121831C63E4A200352BEC = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = VN98C6M783;
 					};
 					A78121971C63E4A300352BEC = {
 						CreatedOnToolsVersion = 7.3;
@@ -400,6 +399,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = almacen2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = trocalos.almacen2;
@@ -411,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = almacen2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = trocalos.almacen2;
